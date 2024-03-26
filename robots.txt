@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RippleTagging.github.io/rippletagging/rippletagging/sitemap.xml
+Sitemap: https://RippleTagging.github.io/rippletagging//sitemap.xml
